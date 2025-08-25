@@ -18,19 +18,27 @@
     "react-dom": "^18.0.0"
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "react-scripts": "^5.0.1"
   },
-  "keywords": ["agriculture", "ecommerce", "react", "farming", "seeds", "pesticides"],
+  "keywords": [
+    "agriculture",
+    "ecommerce",
+    "react",
+    "farming",
+    "seeds",
+    "pesticides"
+  ],
   "author": "Your Name",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/agricommerce.git"
+    "url": "git+https://github.com/anjithkumar-3ab/ABC.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/agricommerce/issues"
+    "url": "https://github.com/anjithkumar-3ab/ABC/issues"
   },
-  "homepage": "https://yourusername.github.io/agricommerce",
+  "homepage": "https://anjithkumar-3ab.github.io/ABC",
   "browserslist": {
     "production": [
       ">0.2%",
